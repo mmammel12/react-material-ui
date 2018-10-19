@@ -1,3 +1,5 @@
+### This project is following the guide [HERE](https://www.youtube.com/watch?v=PWadEeOuv5o)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
